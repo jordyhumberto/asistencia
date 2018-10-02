@@ -1,0 +1,12 @@
+.cuerpo{
+    width: 90vw;
+    margin: auto;
+    margin-top: 5vw;    
+}
+.logout{
+    display: flex;
+    justify-content: flex-end;
+}
+.titulo{
+    text-align:center;
+}
